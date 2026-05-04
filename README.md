@@ -67,5 +67,3 @@ https://www.pexels.com/@godisable-jacob-226636<br />
 -- Bill Cunningham
 
 "One is never over-dressed or under-dressed with a Little Black Dress." —Karl Lagerfeld<br />
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
