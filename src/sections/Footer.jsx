@@ -167,7 +167,7 @@ const Footer = () => {
 					</span>
 					<span data-scroll data-scroll-speed='-2' data-scroll-direction='horizontal'>
 						Made with &hearts; by{' '}
-						<a href='http://devdreaming.com' target={'_blank'} rel='dofollow noreferrer'>
+						<a href='https://ihamza.dev' target={'_blank'} rel='dofollow noreferrer'>
 							Hamza
 						</a>
 					</span>
